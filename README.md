@@ -1,5 +1,5 @@
 # Driverless_2022_batch
-Contains the preprocessing and END_TO_END driverless code for OSV.
+Contains the preprocessing and END_TO_END driverless code for Open Source Vehicle.
 
 This code helps in getting the steering angle, throttle and brake of self driving car. The inspiration is taken from [Udacity Self driving car](https://github.com/udacity/CarND-Behavioral-Cloning-P3) module as well End to End Learning for [Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/) module from NVIDIA.
 
@@ -20,5 +20,7 @@ You can download the dataset from [here](https://drive.google.com/file/d/1vkNr3C
 ### Team Members  
 1. Nishchal J  
 2. Neil Nagraj
-3. Mahek Jain
-4. Chirag Bapat
+
+### Video Link   
+https://drive.google.com/file/d/1kWpjzki3ERWnhHNZcPo2txdsAAYHnmrA/view?usp=drivesdk
+
