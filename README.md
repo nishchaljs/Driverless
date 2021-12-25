@@ -1,4 +1,4 @@
-# Driverless_2022_batch
+# Driverless_2022
 Contains the preprocessing and END_TO_END driverless code for Open Source Vehicle.
 
 This code helps in getting the steering angle, throttle and brake of self driving car. The inspiration is taken from [Udacity Self driving car](https://github.com/udacity/CarND-Behavioral-Cloning-P3) module as well End to End Learning for [Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/) module from NVIDIA.
