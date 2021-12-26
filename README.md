@@ -19,7 +19,7 @@ You can download the dataset from [here](https://drive.google.com/file/d/1vkNr3C
 
 ### Team Members  
 1. Nishchal J  
-2. Neil Nagraj
+2. Neil Nagaraj
 
 ### Video Link   
 https://drive.google.com/file/d/1kWpjzki3ERWnhHNZcPo2txdsAAYHnmrA/view?usp=drivesdk
